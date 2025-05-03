@@ -1,28 +1,28 @@
 {
-  "name": "Music Stream Bot",
+  "name": "Nergiz Music",
   "description": "Bot to play songs in Telegram group voice chats. Powered by PyTgCalls.",
   "keywords": ["music", "voicechat", "telegram"],
   "logo": "https://telegra.ph/file/4c03ff6d25fc678a2fe08.jpg",
   "repository": "https://github.com/ImJanindu/47MusicPlayerBot",
   "stack": "container",
   "env": {
-    "SESSION_NAME": {
+    "SESSION_NAME": {AgEtqVYAIBz31WyrBBjdK2i8aIYndovh8dymI1u9doyOd5YH73WsXanvTiOw99g7zwVMobNUdfEmAEITi0MIiRReM8HeQj9Ua6t0yNtkenEAdik9L8mplzz7DojXJIdksBtKNuBMNggBrB06yyX_dfMUcB49nJcKnbo-b-7hFITypHiN8aBAxSSRnAsIydX3HSuCqVjztPh1YLDdkwVbaRGz5VmuT3Qhx7GabaThHAXCygszzr6fJKoPN6tS9Xkjdh_de4WOdQel_JFtd0Im7s3dhG6orAgxqNMgOaa-ITseZVk3ZetZWHAHgTklhrDsxqiX39aOzYEMVWRfS8SPOPaor2Yu1gAAAAGC_6I6AA}
       "description": "Pyrogram session string",
       "required": true
     },
-    "BOT_TOKEN": {
+    "BOT_TOKEN": {7128782242:AAENypkyECvS57mm7nGhIQNvqkTWQS2VLeI}
       "description": "A bot token from @BotFather",
       "required": true
     },
-    "API_ID": {
+    "API_ID": {19769686}
       "description": "API_ID from my.telegram.org/apps",
       "required": true
     },
-    "API_HASH": {
+    "API_HASH": {515b64f5d2d955cdd6aa85a808fd4cb4}
       "description": "API_HASH from my.telegram.org/apps",
       "required": true
     },
-    "OWNER_ID": {
+    "OWNER_ID": {6671591267}
       "description": "Your Telegram ID",
       "required": true
     }
